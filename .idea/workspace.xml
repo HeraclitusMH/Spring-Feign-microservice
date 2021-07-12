@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc2cf73e-8720-4b09-9073-dedf033635c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git-localconfig-repository" />
+  </component>
+  <component name="ProjectId" id="1tkwf5tyojica3gps4JjdOsplkU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.CurrencyExchangeServiceApplication">
+    <configuration name="CurrencyConversionServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-conversion-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-exchange-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservices" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.limits-service.limitsservice.LimitsServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="limits-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.limitsservice.LimitsServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamingServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="naming-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.namingserver.NamingServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.springcloudconfigserver.SpringCloudConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.LimitsServiceApplication" />
+      <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication" />
+      <item itemvalue="Spring Boot.CurrencyConversionServiceApplication" />
+      <item itemvalue="Spring Boot.NamingServerApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConfigServerApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc2cf73e-8720-4b09-9073-dedf033635c5" name="Default Changelist" comment="" />
+      <created>1623326494129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623326494129</updated>
+      <workItem from="1623326497301" duration="615000" />
+      <workItem from="1623834600628" duration="62000" />
+      <workItem from="1624540161433" duration="427000" />
+      <workItem from="1624540613041" duration="24000" />
+      <workItem from="1624540770636" duration="6144000" />
+      <workItem from="1625230326642" duration="30000" />
+      <workItem from="1626101784025" duration="821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="133" y="0" key="#Project_Structure" timestamp="1624543321488">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="133" y="0" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1624543321488" />
+    <state x="119" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624543198608">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="119" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1624543198608" />
+    <state x="325" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1624543197081">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="325" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1624543197081" />
+    <state x="468" y="67" key="FileChooserDialogImpl" timestamp="1625230352451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="468" y="67" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1625230352451" />
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom" timestamp="1626101845646">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1626101845646" />
+    <state width="1323" height="174" key="GridCell.Tab.0.center" timestamp="1626101845646">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1626101845646" />
+    <state width="1323" height="174" key="GridCell.Tab.0.left" timestamp="1626101845646">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1626101845646" />
+    <state width="1323" height="174" key="GridCell.Tab.0.right" timestamp="1626101845646">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1626101845646" />
+    <state width="1323" height="174" key="GridCell.Tab.1.bottom" timestamp="1626101845647">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1626101845647" />
+    <state width="1323" height="174" key="GridCell.Tab.1.center" timestamp="1626101845647">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1626101845647" />
+    <state width="1323" height="174" key="GridCell.Tab.1.left" timestamp="1626101845647">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1626101845647" />
+    <state width="1323" height="174" key="GridCell.Tab.1.right" timestamp="1626101845647">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1626101845647" />
+    <state width="1323" height="224" key="GridCell.Tab.2.bottom" timestamp="1624869080915">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="224" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624869080915" />
+    <state width="1323" height="224" key="GridCell.Tab.2.center" timestamp="1624869080915">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="224" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1624869080915" />
+    <state width="1323" height="224" key="GridCell.Tab.2.left" timestamp="1624869080915">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="224" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1624869080915" />
+    <state width="1323" height="224" key="GridCell.Tab.2.right" timestamp="1624869080915">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="224" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1624869080915" />
+    <state x="348" y="73" width="672" height="591" key="NewModule_or_Project.wizard" timestamp="1624543318839">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="348" y="73" width="672" height="591" key="NewModule_or_Project.wizard/0.0.1366.738@0.0.1366.738" timestamp="1624543318839" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1624541260973">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1624541260973" />
+    <state x="390" y="104" width="585" height="530" key="find.popup" timestamp="1624545017102">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="104" width="585" height="530" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1624545017102" />
+    <state x="65" y="0" key="new project wizard" timestamp="1624543312620">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1624543312620" />
+  </component>
+</project>
